@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# C / C++ / Rust compiled binaries
+hello
+hello_cpp
+*.out
+
+# Rust
+target/
+
+# OS / editor
+.DS_Store
+.vscode/

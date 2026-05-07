@@ -1,0 +1,21 @@
+learn-programming-by-comparison/
+├── README.md
+├── scripts/
+│   ├── run_hello_world.sh
+│   ├── clean.sh
+│   └── check_environment.sh
+├── 00_environment/
+│   └── almalinux_setup.md
+├── 01_hello_world/
+│   ├── python/
+│   │   └── hello.py
+│   ├── java/
+│   │   └── HelloWorld.java
+│   ├── c/
+│   │   └── hello.c
+│   ├── cpp/
+│   │   └── hello.cpp
+│   └── rust/
+│       └── hello.rs
+└── notes/
+    └── comparison_memo.md
