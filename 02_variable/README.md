@@ -35,7 +35,7 @@ is_student = true
 Name: Taro
 Age: 20
 Height: 170.5
-is_student = true
+is_student: true
 ```
 
 ## 比較のポイント
