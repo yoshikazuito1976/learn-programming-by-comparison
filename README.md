@@ -6,6 +6,7 @@ This repository is for learning programming concepts by comparing examples writt
 - Java
 - C
 - C++
+- Go
 - Rust
 - Shell Script
 
@@ -32,6 +33,7 @@ The goal is not only to learn individual languages, but also to understand commo
 - OpenJDK
 - GCC
 - G++
+- Go
 - Rust
 - Bash
 - Git / GitHub
