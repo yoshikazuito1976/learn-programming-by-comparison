@@ -5,6 +5,8 @@
 hello
 hello_cpp
 *.out
+*.o
+*.hi
 
 # Rust
 target/
