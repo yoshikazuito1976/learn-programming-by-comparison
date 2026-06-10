@@ -1,5 +1,8 @@
 #!/bin/bash
 
-message="Hello, World!"
+name="ITO"
+language="Shell"
 
-echo "$message"
+echo "名前: $name"
+echo "言語: $language"
+echo "$name is learning $language."
