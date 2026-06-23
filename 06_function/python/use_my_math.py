@@ -3,6 +3,8 @@ import my_math #同じディレクトリ内にあるmy_math.pyをインポート
 
 print(my_math.add(1, 2))
 print(my_math.sub(5, 3))
+print(my_math.mul(4, 6))
+print(my_math.div(8, 2))
 
 '''
 This is a simple example of using a custom math module.
